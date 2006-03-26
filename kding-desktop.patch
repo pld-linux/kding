@@ -1,0 +1,7 @@
+--- kding-0.3/src/kding.desktop~	2005-09-19 23:13:08.000000000 +0300
++++ kding-0.3/src/kding.desktop	2006-03-26 19:22:16.000000000 +0300
+@@ -8,3 +8,4 @@
+ Exec=kding
+ Icon=kding
+ Type=Application
++Categories=Qt;KDE;Office;Dictionary;
