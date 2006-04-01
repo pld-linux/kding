@@ -1,4 +1,5 @@
 Summary:	KDE frontend for Ding, a dictionary lookup program
+Summary(pl):	Frontend KDE dla Dinga - programu do wyszukiwania s³ów w s³ownikach
 Name:		kding
 Version:	0.3
 Release:	0.1
@@ -21,6 +22,15 @@ Users can also enter single words or phrases for translation. It is
 intended to be used for translating between German and English, but
 can be used with every language for which a word list is available for
 Ding.
+
+%description -l pl
+KDing to frontend KDE dla Dinga - programu do wyszukiwania s³ów w
+s³ownikach. Umieszcza siê w zasobniku systemowym KDE i potrafi
+t³umaczyæ aktualn± zawarto¶æ schowka. U¿ytkownicy mog± tak¿e wpisywaæ
+pojedyncze s³owa lub frazy do t³umaczenia. Program by³ tworzony z
+my¶l± o t³umaczeniu miêdzy jêzykiem niemieckim a angielskim, ale mo¿e
+byæ u¿ywany z ka¿dym jêzykiem, dla którego jest dostêpna lista s³ów
+dla Dinga.
 
 %prep
 %setup -q
