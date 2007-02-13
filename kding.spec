@@ -1,5 +1,5 @@
 Summary:	KDE frontend for Ding, a dictionary lookup program
-Summary(pl.UTF-8):   Frontend KDE dla Dinga - programu do wyszukiwania słów w słownikach
+Summary(pl.UTF-8):	Frontend KDE dla Dinga - programu do wyszukiwania słów w słownikach
 Name:		kding
 Version:	0.3
 Release:	0.1
